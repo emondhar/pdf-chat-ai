@@ -1,6 +1,6 @@
-# PDF-CHAT AI ✨🤖💻🗃️
+# Chat with your PDF ✨🤖💻🗃️
 
-An AI-powered PDF chat built with Next.js 13, Langchain, and PineconeDB
+AI-powered PDF chatbot built with Next.js 13, Langchain, and PineconeDB
 
 ## Architecture
 
@@ -39,8 +39,3 @@ All commands are run from the root of the project, from a terminal:
 - ✅ Add sources to the streamed chat bubble
 - 🚧 Clean up and show proper error messages
 - 🚧 Sanitize input and output source documents
-
-## 👏🏽 Contributing
-
-Pull requests are welcome, before creating a PR talk to me on [discord](https://discord.com/channels/1121796870231040020/1156553471881908275). For major changes, please open an issue first
-to discuss what you would like to change.
